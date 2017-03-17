@@ -287,47 +287,25 @@ header div h1{
 	height:22px;
 }
 @media (max-width: 720px){
-.head{
-    display: flex;
-    justify-content: space-around;
-    background-color: black;
-    flex-direction: column;
-    height:500px;
-}
-.s{
-	width: 100px;
-	height: 100px;
-	position: fixed;
-}
-header div ul{
-	width: 40px;
-	height: 40px;
-}
-header div ul li{
-	font-size: 15px;
-	color: white;
-	list-style-type: none;
-}
-
-header div h1{
-	color: blue;
-	font-size:20px;
-	position: fixed;
-}
-.one{
-	height: 100%;
-	margin:0px;
-}
-.two{
-	height: 100%;
-	margin:0px;
-}
 .foot{
 	display: flex;
 	justify-content: space-between;
-	flex-direction: column;
-	
+	flex-direction: column;	
 }
+.one{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 50px;
+	width: 100%;
+
+}
+.two{
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 50px;
+	width: 100%;
+}
+
 }
 	
 
