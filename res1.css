@@ -1,0 +1,329 @@
+*{
+	margin:0px;
+	padding: 0px;
+
+}
+.head{
+	display: flex;
+	justify-content: space-between;
+    background-color: black;
+    height: 350px;
+    border-radius:30px;
+}
+.info{
+	width: 500px;
+	height: 300px;
+}
+.s{
+	width: 270px;
+	height: 300px;
+	border-radius: 300px;
+	margin-right: 270px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+
+}
+.fb{
+	width: 40px;
+	height: 40px;
+	margin-bottom: 300px;
+
+}
+.linke{
+	width: 40px;
+	height: 40px;
+	margin-bottom: 300px;
+
+
+}
+.twitt{
+
+  width: 40px;
+  height: 40px;
+  margin-bottom: 300px;
+  margin-right: 30px;
+}
+header div ul{
+	padding: 20px;
+	margin-left: 80px;
+	margin-bottom: 30px;
+}
+header div ul li{
+	font-size: 23px;
+	color: white;
+	list-style-type: none;
+	padding: 5px;
+	
+}
+
+header div h1{
+	padding: 20px;
+	color: blue;
+	margin-left: 80px;
+	font-size:42px;
+}
+.foot{
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+.one{
+	
+	width: 600px;
+	height:1300px;
+	background-color: black;
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	margin-left: 50px;
+	border-radius: 50px;
+
+}
+.profile{
+	width: 560px;
+	height: 250px;
+    margin-bottom: 10px;
+	padding: 20px;
+	padding-bottom: 60px;
+
+}
+.prof{
+	width:530px;
+	height:40px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.pr{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 30px;
+}
+.pa{
+	color:white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	padding: 10px;
+}
+.edq{
+	width: 560px;
+	height: 250px;
+	padding: 20px;
+	margin-bottom: 30px;
+	padding-bottom:140px;
+
+}
+.qual{
+	width:530px;
+	height:40px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.ed{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.sc{
+	color:white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	padding: 10px;
+}
+.hobbies{
+	width: 560px;
+	height: 250px;
+	margin-bottom: 100px;
+   	padding-bottom:60px;
+	margin-top: 10px;
+}
+.ho{
+	width:530px;
+	height:40px;
+	margin-left: 20px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.h{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.tv{
+	margin-left: 10px
+	width:30px;
+	height: 30px;
+}
+.mu{
+    width:30px;
+	height: 30px;
+
+}
+.quiz{
+	margin-left: 10px;
+    width:30px;
+	height:30px;
+
+}
+.so{
+	margin-left: 10px;
+    width:30px;
+	height: 30px;
+}
+.all{
+
+	font-size: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:white;
+	margin-left: 60px;
+	padding-top: 30px;
+
+}
+.two{
+	margin-right: 50px;
+    width: 600px;
+    height:1300px;
+    display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+	background-color: black;
+	border-radius: 50px;
+
+}
+.training{
+	width: 560px;
+	height: 250px;
+	padding: 15px;
+    margin-left: 5px;
+    padding-top:300px;
+
+}
+.train{
+	width:530px;
+	height:40px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.tr{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.tra{
+	color:white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 20px;
+	padding: 10px;
+}
+.project{
+	width: 560px;
+	height: 250px;
+	padding: 18px;
+	margin-bottom: 320px;
+	margin-top: 100px;
+}
+.proj{
+	width:530px;
+	height:40px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.pro{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.pr{
+    font-size:20px;
+	color:white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
+}
+.skills{
+     width:560px;
+     height:250px;
+     margin-left: 20px;
+     padding-bottom: 350px;
+
+}
+.ski{
+	width:530px;
+	height:40px;
+	border-radius: 20px;
+	background-color: blue;
+}
+.sk{
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: 40px;
+	margin-top: 30px;
+	font-size: 20px;
+}
+.s{
+	list-style-type: none;
+	margin-left: 40px;
+	color: white;
+	font-size:23px;
+
+
+}
+.star{
+	width:  22px;
+	height: 22px;
+}
+.starh{
+	width:22px;
+	height:22px;
+}
+@media (max-width: 720px){
+	.head{
+	display: flex;
+	justify-content: space-around;
+    background-color: black;
+    flex-direction: column;
+    height:500px;
+}
+.s{
+	width: 100px;
+	height: 100px;
+	position: fixed;
+}
+header div ul{
+	width: 40px;
+	height: 40px;
+}
+header div ul li{
+	font-size: 15px;
+	color: white;
+	list-style-type: none;
+}
+
+header div h1{
+	color: blue;
+	font-size:20px;
+	position: fixed;
+}
+.one{
+	height: 100%;
+}
+.two{
+	height: 100%;
+}
+.foot{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+	
+}
+
