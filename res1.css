@@ -287,9 +287,9 @@ header div h1{
 	height:22px;
 }
 @media (max-width: 720px){
-	.head{
-	display: flex;
-	justify-content: space-around;
+.head{
+    display: flex;
+    justify-content: space-around;
     background-color: black;
     flex-direction: column;
     height:500px;
@@ -316,9 +316,11 @@ header div h1{
 }
 .one{
 	height: 100%;
+	margin:0px;
 }
 .two{
 	height: 100%;
+	margin:0px;
 }
 .foot{
 	display: flex;
@@ -326,4 +328,6 @@ header div h1{
 	flex-direction: column;
 	
 }
+}
+	
 
